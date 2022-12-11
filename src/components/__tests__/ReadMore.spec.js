@@ -7,7 +7,7 @@ describe('ReadMore component', () => {
         const wrapper = mount(ReadMore)
         expect(wrapper.exists()).toBeTruthy()
         expect(wrapper.text()).toContain('Exercise Read More')
-        expect(wrapper.find('button').element.textContent).toBe("Show more")
+        expect(wrapper.find('button').element.textContent).toBe("Show More")
     });
 
     it('when show more was clicked', async () => {

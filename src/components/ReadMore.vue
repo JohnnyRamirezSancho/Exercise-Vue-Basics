@@ -3,7 +3,6 @@ import { ref } from "vue";
 
 const title = ref("Exercise Read More");
 const mostrar = ref(false);
-
 </script>
 
 <template>
@@ -18,7 +17,7 @@ const mostrar = ref(false);
         temporibus pariatur ab repellendus dignissimos natus aliquam odit ullam,
         quaerat autem non hic, quidem dolore laboriosam.
       </p>
-      <button class="btn btn-primary" @click="mostrar = !mostrar">{{ mostrar ? 'Show less' : 'Show more' }}</button>
+      <button class="btn btn-primary" @click="mostrar = !mostrar">{{ mostrar ? 'Show less' : 'Show More' }}</button>
     </div>
     <hr class="mb-4" />
   </div>
