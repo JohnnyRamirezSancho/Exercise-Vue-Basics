@@ -22,7 +22,7 @@ Se nos comunica que el parágrafo está utilizando la class 'cut-text'.
  - Vue 3
 ### Herramientas
 - Visual Studio Code, junto a Git Bash, para la modificación de los elementos necesarios y creación del repositorio local.
--Vue 3
+- Vue 3
 - GitHub para la creación de un repositorio online que nos permitirá recuperar el proyecto desde cualquier dispositivo, así como compartirlo llegado el momento.
 ## AUTOR
 - [@JohnnyRamirezSancho](https://github.com/JohnnyRamirezSancho)
