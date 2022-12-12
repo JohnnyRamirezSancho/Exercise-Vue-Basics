@@ -4,7 +4,7 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "build-ghpages": "vite build --base=/VUE-APP-Vite/",
+    "build-ghpages": "vite build --base=/Exercise-Vue-Basics/",
     "preview": "vite preview --port 4173",
     "test:unit": "vitest --environment jsdom"
   },
